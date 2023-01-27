@@ -6,5 +6,5 @@ Absolutely, there is no reason why this should be obfuscated.
 
 ## Script
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KhaledIsCool/QuotesGenerator/main/main.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ThatUncreativeDude/QuotesGenerator/main/main.lua", true))()
 ```
